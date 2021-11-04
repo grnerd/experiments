@@ -1,0 +1,1165 @@
+1626854398506	geckodriver	INFO	Listening on 127.0.0.1:43107
+1626854398521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletJaA7K"
+1626854399565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletJaA7K/search.json.mozlz4", (void 0)))
+1626854403311	Marionette	INFO	Listening on port 41697
+1626854403382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+1626854428265	Marionette	INFO	Stopped listening on port 41697
+1626854495817	geckodriver	INFO	Listening on 127.0.0.1:55911
+1626854495836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVX2tSV"
+1626854496816	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVX2tSV/search.json.mozlz4", (void 0)))
+1626854500483	Marionette	INFO	Listening on port 45549
+1626854500601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626854502156	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+1626854773155	Marionette	INFO	Stopped listening on port 45549
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626854830077	geckodriver	INFO	Listening on 127.0.0.1:35687
+1626854830091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMpncBs"
+1626854831050	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMpncBs/search.json.mozlz4", (void 0)))
+1626854835126	Marionette	INFO	Listening on port 46029
+1626854835278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626854836593	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626854840572	Marionette	INFO	Stopped listening on port 46029
+JavaScript error: https://start.fedoraproject.org/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://start.fedoraproject.org/, line 297: ReferenceError: $ is not defined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileMpncBs/protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626854852178	geckodriver	INFO	Listening on 127.0.0.1:33013
+1626854852192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB9hqzX"
+1626854853133	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB9hqzX/search.json.mozlz4", (void 0)))
+1626854856515	Marionette	INFO	Listening on port 39151
+1626854856638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626854858335	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1626855251419	Marionette	INFO	Stopped listening on port 39151
+1626861262723	geckodriver	INFO	Listening on 127.0.0.1:41503
+1626861263755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefMQtDC"
+1626861264901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefMQtDC/search.json.mozlz4", (void 0)))
+1626861269221	Marionette	INFO	Listening on port 41283
+1626861269290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1626861288801	Marionette	INFO	Stopped listening on port 41283
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626861367688	geckodriver	INFO	Listening on 127.0.0.1:39823
+1626861367704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilectMtVf"
+1626861368805	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilectMtVf/search.json.mozlz4", (void 0)))
+1626861373914	Marionette	INFO	Listening on port 46671
+1626861374208	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+1626861528660	geckodriver	INFO	Listening on 127.0.0.1:46399
+1626861528678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWmBHoO"
+1626861529843	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWmBHoO/search.json.mozlz4", (void 0)))
+1626861534756	Marionette	INFO	Listening on port 37451
+1626861534928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1626861576588	Marionette	INFO	Stopped listening on port 46671
+1626861690293	geckodriver	INFO	Listening on 127.0.0.1:38461
+1626861691321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSgJxXe"
+1626861692453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSgJxXe/search.json.mozlz4", (void 0)))
+1626861697207	Marionette	INFO	Listening on port 39721
+1626861697465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+1626861713679	Marionette	INFO	Stopped listening on port 39721
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1626863190111	Marionette	INFO	Stopped listening on port 37451
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626867728562	geckodriver	INFO	Listening on 127.0.0.1:39419
+1626867728718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB5sWpK"
+1626867730167	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB5sWpK/search.json.mozlz4", (void 0)))
+1626867734715	Marionette	INFO	Listening on port 43077
+1626867735055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1626867931037	geckodriver	INFO	Listening on 127.0.0.1:38765
+1626867931052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqGfc51"
+1626867932425	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqGfc51/search.json.mozlz4", (void 0)))
+1626867937789	Marionette	INFO	Listening on port 40793
+1626867937946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+1626867976410	Marionette	INFO	Stopped listening on port 40793
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1626868502920	geckodriver	INFO	Listening on 127.0.0.1:33953
+1626868502937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejlaKmI"
+1626868503901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejlaKmI/search.json.mozlz4", (void 0)))
+1626868507692	Marionette	INFO	Listening on port 37193
+1626868507788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+1626868533176	Marionette	INFO	Stopped listening on port 37193
+1626868577493	geckodriver	INFO	Listening on 127.0.0.1:46633
+1626868577507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileopBm0P"
+1626868578486	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileopBm0P/search.json.mozlz4", (void 0)))
+1626868582494	Marionette	INFO	Listening on port 44091
+1626868582763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+1626868653267	geckodriver	INFO	Listening on 127.0.0.1:34545
+1626868653276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ07Fl3"
+1626868654572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ07Fl3/search.json.mozlz4", (void 0)))
+1626868658922	Marionette	INFO	Listening on port 41233
+1626868659059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+1626868671783	Marionette	INFO	Stopped listening on port 41233
+1626868771628	geckodriver	INFO	Listening on 127.0.0.1:36037
+1626868771638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9HCYJP"
+1626868772679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9HCYJP/search.json.mozlz4", (void 0)))
+1626868776809	Marionette	INFO	Listening on port 42743
+1626868776908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+1626868838311	Marionette	INFO	Stopped listening on port 44091
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker25, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:499:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3731:24\ndestroy@resource://devtools/client/framework/toolbox.js:3669:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:700:17\nhandleEvent@resource://devtools/client/framework/devtools-browser.js:721:26\n", "resource://devtools/shared/protocol/Front.js", 103))
+1626868855138	Marionette	INFO	Stopped listening on port 43077
+1626868856243	Marionette	INFO	Stopped listening on port 42743
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626869228294	geckodriver	INFO	Listening on 127.0.0.1:52835
+1626869228302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNuOJwY"
+1626869229341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNuOJwY/search.json.mozlz4", (void 0)))
+1626869233904	Marionette	INFO	Listening on port 39493
+1626869234033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+1626869250830	Marionette	INFO	Stopped listening on port 39493
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626869252971	geckodriver	INFO	Listening on 127.0.0.1:37603
+1626869252980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5wwczG"
+1626869254121	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5wwczG/search.json.mozlz4", (void 0)))
+1626869257925	Marionette	INFO	Listening on port 46179
+1626869258218	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1626869979865	Marionette	INFO	Stopped listening on port 46179
+1626871101555	geckodriver	INFO	Listening on 127.0.0.1:33093
+1626871101563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIrPBZu"
+1626871102608	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIrPBZu/search.json.mozlz4", (void 0)))
+1626871105991	Marionette	INFO	Listening on port 38449
+1626871106039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+1626871327987	Marionette	INFO	Stopped listening on port 38449
+1626871329426	geckodriver	INFO	Listening on 127.0.0.1:55421
+1626871329435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaY5TrA"
+1626871330459	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaY5TrA/search.json.mozlz4", (void 0)))
+1626871333861	Marionette	INFO	Listening on port 36467
+1626871333964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+1626871381537	geckodriver	INFO	Listening on 127.0.0.1:60529
+1626871381545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyE10Mq"
+1626871382487	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyE10Mq/search.json.mozlz4", (void 0)))
+1626871386008	Marionette	INFO	Listening on port 35691
+1626871386133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/1865e0b16072.js, line 190: uncaught exception: Object
+1626871486643	Marionette	INFO	Stopped listening on port 35691
+1626871489184	Marionette	INFO	Stopped listening on port 36467
+1626871491403	geckodriver	INFO	Listening on 127.0.0.1:44135
+1626871491411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyRVVzy"
+1626871492391	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyRVVzy/search.json.mozlz4", (void 0)))
+1626871495846	Marionette	INFO	Listening on port 40097
+1626871495981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1626871608187	Marionette	INFO	Stopped listening on port 40097
+1626871609267	geckodriver	INFO	Listening on 127.0.0.1:49945
+1626871609276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXWMRKR"
+1626871610299	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXWMRKR/search.json.mozlz4", (void 0)))
+1626871614107	Marionette	INFO	Listening on port 46649
+1626871614178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1626871797344	geckodriver	INFO	Listening on 127.0.0.1:56475
+1626871798366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG8FDJS"
+1626871799518	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG8FDJS/search.json.mozlz4", (void 0)))
+1626871803832	Marionette	INFO	Listening on port 46869
+1626871803981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://8b2bd70412a2f037aa0dd7f18999ef60.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "null has no properties"
+console.error: (new TypeError("null has no properties", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626871984310	Marionette	INFO	Stopped listening on port 46649
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626871985600	Marionette	INFO	Stopped listening on port 46869
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626871988713	geckodriver	INFO	Listening on 127.0.0.1:50355
+1626871988722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBbo51P"
+1626871989756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBbo51P/search.json.mozlz4", (void 0)))
+1626871993223	Marionette	INFO	Listening on port 32911
+1626871993319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626872056976	Marionette	INFO	Stopped listening on port 32911
+1626872057898	geckodriver	INFO	Listening on 127.0.0.1:44657
+1626872057907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5F4RYQ"
+1626872058968	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5F4RYQ/search.json.mozlz4", (void 0)))
+1626872062556	Marionette	INFO	Listening on port 38565
+1626872062691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:918:3
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626872100839	Marionette	INFO	Stopped listening on port 38565
+1626872114368	geckodriver	INFO	Listening on 127.0.0.1:56633
+1626872114377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI0GXFM"
+1626872115377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI0GXFM/search.json.mozlz4", (void 0)))
+1626872119000	Marionette	INFO	Listening on port 45009
+1626872119136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://885ab87d7ba8686d06c6527127391db6.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+1626872195843	geckodriver	INFO	Listening on 127.0.0.1:58967
+1626872195852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQJsz8j"
+1626872197072	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQJsz8j/search.json.mozlz4", (void 0)))
+1626872201760	Marionette	INFO	Listening on port 39449
+1626872201892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:918:3
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1626872213805	Marionette	INFO	Stopped listening on port 39449
+1626872216587	geckodriver	INFO	Listening on 127.0.0.1:41945
+1626872216596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC7mTcx"
+1626872217742	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC7mTcx/search.json.mozlz4", (void 0)))
+1626872222122	Marionette	INFO	Listening on port 34237
+1626872222756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626872375352	Marionette	INFO	Stopped listening on port 34237
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1626872380852	Marionette	INFO	Stopped listening on port 45009
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626873405204	geckodriver	INFO	Listening on 127.0.0.1:43651
+1626873405217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSuYxnz"
+1626873406204	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSuYxnz/search.json.mozlz4", (void 0)))
+1626873409737	Marionette	INFO	Listening on port 35239
+1626873409827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileSuYxnz/protections.sqlite
+1626873421259	Marionette	INFO	Stopped listening on port 35239
+1626873426148	geckodriver	INFO	Listening on 127.0.0.1:37803
+1626873426170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledyxF2a"
+1626873427490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledyxF2a/search.json.mozlz4", (void 0)))
+1626873431078	Marionette	INFO	Listening on port 41785
+1626873431182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackground::Msg_MessagePortForceClose Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackground::Msg_MessagePortForceClose Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626873446047	Marionette	INFO	Stopped listening on port 41785
+1626873450595	geckodriver	INFO	Listening on 127.0.0.1:46955
+1626873450604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJtHtAC"
+1626873451551	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJtHtAC/search.json.mozlz4", (void 0)))
+1626873455043	Marionette	INFO	Listening on port 34013
+1626873455193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: https://2dd0a7391ce6a43ef0e8619e266681de.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 6 > injectedScript, line 23: TypeError: msg.indexOf is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626873533064	Marionette	INFO	Stopped listening on port 34013
+1626873743655	geckodriver	INFO	Listening on 127.0.0.1:43543
+1626873743663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexjCrcJ"
+*** You are running in headless mode.
+1626873744272	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexjCrcJ/search.json.mozlz4", (void 0)))
+1626873747006	Marionette	INFO	Listening on port 43641
+1626873747191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/s-OE46cnkXGFQoo4r8zhnqxzG88VmeLG6mk72mZMPyg.js line 1 > eval line 4863 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/s-OE46cnkXGFQoo4r8zhnqxzG88VmeLG6mk72mZMPyg.js line 1 > eval line 4863 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
